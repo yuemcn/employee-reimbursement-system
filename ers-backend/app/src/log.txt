@@ -1,0 +1,151 @@
+2022-05-12 20:06:59 INFO  LoggingUtil:33 - Successfully logged in as user username
+2022-05-20 09:44:55 INFO  LoggingUtil:34 - Could not submit request due to negative amount
+2022-05-20 10:33:32 INFO  LoggingUtil:91 - Successfully retrieved all pending tickets from user testUser2
+2022-05-20 10:34:02 INFO  LoggingUtil:91 - Successfully retrieved all pending tickets from user testUser2
+2022-05-20 10:34:26 INFO  LoggingUtil:91 - Successfully retrieved all pending tickets from user testUser1
+2022-05-20 10:41:20 INFO  LoggingUtil:133 - Attempt to view pending tickets failed
+2022-05-20 10:44:18 INFO  LoggingUtil:165 - Attempt to view all resolved tickets failed
+2022-05-20 10:48:15 INFO  LoggingUtil:197 - Attempt to retrieve requests from Employee #1 failed
+2022-05-21 21:08:17 INFO  LoggingUtil:165 - Attempt to view all resolved tickets failed
+2022-05-21 21:08:17 INFO  LoggingUtil:197 - Attempt to retrieve requests from Employee #1 failed
+2022-05-21 21:08:17 INFO  LoggingUtil:91 - Successfully retrieved all pending tickets from user testUser1
+2022-05-21 21:08:17 INFO  LoggingUtil:34 - Could not submit request due to negative amount
+2022-05-21 21:08:17 INFO  LoggingUtil:133 - Attempt to view pending tickets failed
+2022-05-21 21:08:32 INFO  LoggingUtil:30 - Attempt to login as user uname failed
+2022-05-21 21:08:32 INFO  LoggingUtil:30 - Attempt to login as user uname failed
+2022-05-21 21:08:32 INFO  LoggingUtil:52 - Attempt to retrieve all Employees failed
+2022-05-21 21:10:55 INFO  LoggingUtil:165 - Attempt to view all resolved tickets failed
+2022-05-21 21:10:55 INFO  LoggingUtil:197 - Attempt to retrieve requests from Employee #1 failed
+2022-05-21 21:10:55 INFO  LoggingUtil:91 - Successfully retrieved all pending tickets from user testUser1
+2022-05-21 21:10:55 INFO  LoggingUtil:34 - Could not submit request due to negative amount
+2022-05-21 21:10:55 INFO  LoggingUtil:133 - Attempt to view pending tickets failed
+2022-05-21 21:11:08 INFO  LoggingUtil:30 - Attempt to login as user uname failed
+2022-05-21 21:11:08 INFO  LoggingUtil:30 - Attempt to login as user uname failed
+2022-05-21 21:11:08 INFO  LoggingUtil:52 - Attempt to retrieve all Employees failed
+2022-05-21 21:11:55 INFO  LoggingUtil:30 - Attempt to login as user uname failed
+2022-05-21 21:11:55 INFO  LoggingUtil:30 - Attempt to login as user uname failed
+2022-05-21 21:11:55 INFO  LoggingUtil:52 - Attempt to retrieve all Employees failed
+2022-05-21 21:12:30 INFO  LoggingUtil:30 - Attempt to login as user uname failed
+2022-05-21 21:12:46 INFO  LoggingUtil:30 - Attempt to login as user uname failed
+2022-05-21 21:13:00 INFO  LoggingUtil:52 - Attempt to retrieve all Employees failed
+2022-05-21 21:13:44 INFO  LoggingUtil:34 - Could not submit request due to negative amount
+2022-05-21 21:14:12 INFO  LoggingUtil:34 - Could not submit request due to negative amount
+2022-05-21 21:14:25 INFO  LoggingUtil:91 - Successfully retrieved all pending tickets from user testUser1
+2022-05-21 21:14:29 INFO  LoggingUtil:91 - Successfully retrieved all pending tickets from user testUser1
+2022-05-21 21:14:43 INFO  LoggingUtil:165 - Attempt to view all resolved tickets failed
+2022-05-21 21:14:43 INFO  LoggingUtil:197 - Attempt to retrieve requests from Employee #1 failed
+2022-05-21 21:14:43 INFO  LoggingUtil:91 - Successfully retrieved all pending tickets from user testUser1
+2022-05-21 21:14:43 INFO  LoggingUtil:34 - Could not submit request due to negative amount
+2022-05-21 21:14:43 INFO  LoggingUtil:133 - Attempt to view pending tickets failed
+2022-05-21 21:14:54 INFO  LoggingUtil:30 - Attempt to login as user uname failed
+2022-05-21 21:14:54 INFO  LoggingUtil:30 - Attempt to login as user uname failed
+2022-05-21 21:14:54 INFO  LoggingUtil:52 - Attempt to retrieve all Employees failed
+2022-05-21 21:16:06 INFO  LoggingUtil:30 - Attempt to login as user uname failed
+2022-05-21 21:16:06 INFO  LoggingUtil:30 - Attempt to login as user uname failed
+2022-05-21 21:16:06 INFO  LoggingUtil:52 - Attempt to retrieve all Employees failed
+2022-05-24 10:22:33 INFO  LoggingUtil:165 - Attempt to view all resolved tickets failed
+2022-05-24 10:22:33 INFO  LoggingUtil:197 - Attempt to retrieve requests from Employee #1 failed
+2022-05-24 10:22:33 INFO  LoggingUtil:91 - Successfully retrieved all pending tickets from user testUser1
+2022-05-24 10:22:33 INFO  LoggingUtil:34 - Could not submit request due to negative amount
+2022-05-24 10:22:33 INFO  LoggingUtil:133 - Attempt to view pending tickets failed
+2022-05-24 10:22:33 INFO  LoggingUtil:30 - Attempt to login as user uname failed
+2022-05-24 10:22:33 INFO  LoggingUtil:30 - Attempt to login as user uname failed
+2022-05-24 10:22:33 INFO  LoggingUtil:59 - Attempt to retrieve all Employees failed
+2022-05-24 10:30:43 INFO  LoggingUtil:165 - Attempt to view all resolved tickets failed
+2022-05-24 10:30:44 INFO  LoggingUtil:197 - Attempt to retrieve requests from Employee #1 failed
+2022-05-24 10:30:44 INFO  LoggingUtil:91 - Successfully retrieved all pending tickets from user testUser1
+2022-05-24 10:30:44 INFO  LoggingUtil:34 - Could not submit request due to negative amount
+2022-05-24 10:30:44 INFO  LoggingUtil:133 - Attempt to view pending tickets failed
+2022-05-24 10:30:44 INFO  LoggingUtil:30 - Attempt to login as user uname failed
+2022-05-24 10:30:44 INFO  LoggingUtil:30 - Attempt to login as user uname failed
+2022-05-24 10:30:44 INFO  LoggingUtil:59 - Attempt to retrieve all Employees failed
+2022-05-24 10:39:46 INFO  LoggingUtil:165 - Attempt to view all resolved tickets failed
+2022-05-24 10:39:46 INFO  LoggingUtil:197 - Attempt to retrieve requests from Employee #1 failed
+2022-05-24 10:39:46 INFO  LoggingUtil:91 - Successfully retrieved all pending tickets from user testUser1
+2022-05-24 10:39:46 INFO  LoggingUtil:34 - Could not submit request due to negative amount
+2022-05-24 10:39:46 INFO  LoggingUtil:133 - Attempt to view pending tickets failed
+2022-05-24 10:39:46 INFO  LoggingUtil:30 - Attempt to login as user uname failed
+2022-05-24 10:39:46 INFO  LoggingUtil:30 - Attempt to login as user uname failed
+2022-05-24 10:39:46 INFO  LoggingUtil:59 - Attempt to retrieve all Employees failed
+2022-05-24 10:45:21 INFO  LoggingUtil:45 - Failed to register user 0
+2022-05-24 10:46:26 INFO  LoggingUtil:45 - Failed to register user 0
+2022-05-24 10:46:46 INFO  LoggingUtil:45 - Failed to register user 0
+2022-05-24 10:47:17 INFO  LoggingUtil:45 - Failed to register user 17
+2022-05-24 10:47:34 INFO  LoggingUtil:45 - Failed to register user 17
+2022-05-24 10:47:58 INFO  LoggingUtil:30 - Attempt to login as user uname failed
+2022-05-24 10:47:58 INFO  LoggingUtil:30 - Attempt to login as user uname failed
+2022-05-24 10:47:58 INFO  LoggingUtil:59 - Attempt to retrieve all Employees failed
+2022-05-24 10:47:58 INFO  LoggingUtil:45 - Failed to register user 0
+2022-05-24 10:47:58 INFO  LoggingUtil:165 - Attempt to view all resolved tickets failed
+2022-05-24 10:47:58 INFO  LoggingUtil:197 - Attempt to retrieve requests from Employee #1 failed
+2022-05-24 10:47:58 INFO  LoggingUtil:91 - Successfully retrieved all pending tickets from user testUser1
+2022-05-24 10:47:58 INFO  LoggingUtil:34 - Could not submit request due to negative amount
+2022-05-24 10:47:58 INFO  LoggingUtil:133 - Attempt to view pending tickets failed
+2022-05-24 11:12:28 INFO  LoggingUtil:165 - Attempt to view all resolved tickets failed
+2022-05-24 11:12:28 INFO  LoggingUtil:197 - Attempt to retrieve requests from Employee #1 failed
+2022-05-24 11:12:28 INFO  LoggingUtil:91 - Successfully retrieved all pending tickets from user testUser1
+2022-05-24 11:12:28 INFO  LoggingUtil:34 - Could not submit request due to negative amount
+2022-05-24 11:12:28 INFO  LoggingUtil:133 - Attempt to view pending tickets failed
+2022-05-24 11:12:29 INFO  LoggingUtil:30 - Attempt to login as user uname failed
+2022-05-24 11:12:29 INFO  LoggingUtil:45 - Failed to register user 0
+2022-05-24 11:12:29 INFO  LoggingUtil:30 - Attempt to login as user uname failed
+2022-05-24 11:12:29 INFO  LoggingUtil:59 - Attempt to retrieve all Employees failed
+2022-05-24 11:12:29 INFO  LoggingUtil:45 - Failed to register user 0
+2022-05-24 11:13:16 INFO  LoggingUtil:30 - Attempt to login as user uname failed
+2022-05-24 11:13:16 INFO  LoggingUtil:30 - Attempt to login as user uname failed
+2022-05-24 11:13:16 INFO  LoggingUtil:59 - Attempt to retrieve all Employees failed
+2022-05-24 11:13:16 INFO  LoggingUtil:45 - Failed to register user 0
+2022-05-24 11:13:16 INFO  LoggingUtil:165 - Attempt to view all resolved tickets failed
+2022-05-24 11:13:16 INFO  LoggingUtil:197 - Attempt to retrieve requests from Employee #1 failed
+2022-05-24 11:13:16 INFO  LoggingUtil:91 - Successfully retrieved all pending tickets from user testUser1
+2022-05-24 11:13:16 INFO  LoggingUtil:34 - Could not submit request due to negative amount
+2022-05-24 11:13:16 INFO  LoggingUtil:133 - Attempt to view pending tickets failed
+2022-05-24 11:26:05 INFO  LoggingUtil:165 - Attempt to view all resolved tickets failed
+2022-05-24 11:26:05 INFO  LoggingUtil:197 - Attempt to retrieve requests from Employee #1 failed
+2022-05-24 11:26:05 INFO  LoggingUtil:91 - Successfully retrieved all pending tickets from user testUser1
+2022-05-24 11:26:05 INFO  LoggingUtil:34 - Could not submit request due to negative amount
+2022-05-24 11:26:05 INFO  LoggingUtil:133 - Attempt to view pending tickets failed
+2022-05-24 11:26:05 INFO  LoggingUtil:30 - Attempt to login as user uname failed
+2022-05-24 11:26:05 INFO  LoggingUtil:30 - Attempt to login as user uname failed
+2022-05-24 11:26:05 INFO  LoggingUtil:59 - Attempt to retrieve all Employees failed
+2022-05-24 11:26:05 INFO  LoggingUtil:45 - Failed to register user 0
+2022-05-24 11:29:00 INFO  LoggingUtil:165 - Attempt to view all resolved tickets failed
+2022-05-24 11:29:00 INFO  LoggingUtil:197 - Attempt to retrieve requests from Employee #1 failed
+2022-05-24 11:29:00 INFO  LoggingUtil:91 - Successfully retrieved all pending tickets from user testUser1
+2022-05-24 11:29:00 INFO  LoggingUtil:34 - Could not submit request due to negative amount
+2022-05-24 11:29:00 INFO  LoggingUtil:133 - Attempt to view pending tickets failed
+2022-05-24 11:29:00 INFO  LoggingUtil:30 - Attempt to login as user uname failed
+2022-05-24 11:29:00 INFO  LoggingUtil:30 - Attempt to login as user uname failed
+2022-05-24 11:29:00 INFO  LoggingUtil:59 - Attempt to retrieve all Employees failed
+2022-05-24 11:29:00 INFO  LoggingUtil:45 - Failed to register user 0
+2022-05-24 11:38:48 INFO  LoggingUtil:153 - Successfully retrieved all pending tickets
+2022-05-24 11:39:03 INFO  LoggingUtil:165 - Attempt to view all resolved tickets failed
+2022-05-24 11:39:03 INFO  LoggingUtil:197 - Attempt to retrieve requests from Employee #1 failed
+2022-05-24 11:39:03 INFO  LoggingUtil:91 - Successfully retrieved all pending tickets from user testUser1
+2022-05-24 11:39:03 INFO  LoggingUtil:34 - Could not submit request due to negative amount
+2022-05-24 11:39:03 INFO  LoggingUtil:153 - Successfully retrieved all pending tickets
+2022-05-24 11:39:03 INFO  LoggingUtil:133 - Attempt to view pending tickets failed
+2022-05-24 11:39:03 INFO  LoggingUtil:30 - Attempt to login as user uname failed
+2022-05-24 11:39:03 INFO  LoggingUtil:30 - Attempt to login as user uname failed
+2022-05-24 11:39:03 INFO  LoggingUtil:59 - Attempt to retrieve all Employees failed
+2022-05-24 11:39:03 INFO  LoggingUtil:45 - Failed to register user 0
+2022-05-24 11:41:15 INFO  LoggingUtil:165 - Attempt to view all resolved tickets failed
+2022-05-24 11:41:15 INFO  LoggingUtil:197 - Attempt to retrieve requests from Employee #1 failed
+2022-05-24 11:41:15 INFO  LoggingUtil:91 - Successfully retrieved all pending tickets from user testUser1
+2022-05-24 11:41:15 INFO  LoggingUtil:34 - Could not submit request due to negative amount
+2022-05-24 11:41:15 INFO  LoggingUtil:153 - Successfully retrieved all pending tickets
+2022-05-24 11:41:15 INFO  LoggingUtil:133 - Attempt to view pending tickets failed
+2022-05-24 11:41:16 INFO  LoggingUtil:30 - Attempt to login as user uname failed
+2022-05-24 11:41:16 INFO  LoggingUtil:30 - Attempt to login as user uname failed
+2022-05-24 11:41:16 INFO  LoggingUtil:59 - Attempt to retrieve all Employees failed
+2022-05-24 11:41:16 INFO  LoggingUtil:45 - Failed to register user 0
+2022-05-24 11:54:45 INFO  LoggingUtil:165 - Attempt to view all resolved tickets failed
+2022-05-24 11:54:45 INFO  LoggingUtil:197 - Attempt to retrieve requests from Employee #1 failed
+2022-05-24 11:54:45 INFO  LoggingUtil:91 - Successfully retrieved all pending tickets from user testUser1
+2022-05-24 11:54:45 INFO  LoggingUtil:34 - Could not submit request due to negative amount
+2022-05-24 11:54:45 INFO  LoggingUtil:153 - Successfully retrieved all pending tickets
+2022-05-24 11:54:45 INFO  LoggingUtil:133 - Attempt to view pending tickets failed
+2022-05-24 11:54:45 INFO  LoggingUtil:30 - Attempt to login as user uname failed
+2022-05-24 11:54:45 INFO  LoggingUtil:30 - Attempt to login as user uname failed
+2022-05-24 11:54:45 INFO  LoggingUtil:59 - Attempt to retrieve all Employees failed
+2022-05-24 11:54:45 INFO  LoggingUtil:45 - Failed to register user 0
