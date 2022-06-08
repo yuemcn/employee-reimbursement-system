@@ -96,11 +96,89 @@ create table user_roles (
 );
 ```
 
+### Starting the Application
+
+- On the command line, open the folder containing 
+
 ## Usage
 
+### Logging In/Registering
 
+The first page the user will view is the login page. To login, enter your username and password into the corresponding fields. To register a new user, click the yellow "Register" button.
+
+![](./images/login.png)
+
+On the registration page, enter your information into the designated fields. All fields in this form are required. Note: This form will only register an employee; managers must be created manually in the database (see the "Creating a Manager" section below).
+
+![](./images/register.png)
+
+### Homepage
+
+After logging in, the user will be redirected to the homepage.
+
+![](./images/home.png)
+
+### Editing Account Information
+
+To edit the user's account information, click on the orange "Edit" button; the user will be redirected to the Edit Account Information page.
+
+![](./images/edit-info.png)
+
+Enter the new information into the corresponding fields. To submit, click the orange "Submit" button. To cancel and go back to the homepage, click the orange "Cancel" button.
+
+### Submitting a New Reimbursement
+
+To submit a new reimbursement, click "Reimbursement Form" on the green navigation bar at the top.
+
+![](./images/reimbursement-form.png)
+
+Enter the information for the reimbursement into the form and click the "Submit" button. Note: You will not automatically be redirected to the homepage. To go back to the homepage, click "Home" on the navigation bar.
+
+### Viewing Pending Reimbursements
+
+To view a user's pending reimbursement requests, click "View Pending" on the navigation bar.
+
+![](./images/view-pending.png)
+
+### Viewing Resolved Reimbursements
+
+To view a user's resolved reimbursement requests, click "View Resolved" on the navigation bar.
+
+![](./images/view-past.png)
+
+### Manager: Viewing and Approving/Denying Pending Reimbursements
+
+The manager will have a different navigation bar from regular employees. To view all reimbursement requests from all employees as a manager, click "View All Pending" on the navigation bar.
+
+![](./images/view-all-pending.png)
+
+To approve a request, click on the check mark on the right side of the table. To deny a request, click on the X.
+
+### Manager: Viewing All Resolved Reimbursements
+
+To view all resolved reimbursement requests from all employees, click "View All Resolved" on the navigation bar.
+
+![](./images/view-all-resolved.png)
+
+### Manager: Viewing All Employees
+
+To view all employees, click "View All Employees" on the navigation bar.
+
+![](./images/view-all-employees.png)
+
+## Logging Out
+
+To log out, click on the blue "Logout" button in the navigation bar. You will be redirected to the login page.
+
+### Creating a Manager
+
+Managers can only be created manually in the database. To do so, run the following SQL query, replacing placeholders with the correct information:
+
+```
+insert into users (username, password, first_name, last_name, email, role) values ('[username]', '[password]', '[First Name]', '[Last Name]', '[email]', 1);
+```
 
 ## Contributors
 
-Hailey "Yue" McNelis
-Robert Duong
+- Hailey "Yue" McNelis (yuemcn)
+- Robert Duong (robpduo)
