@@ -96,10 +96,6 @@ create table user_roles (
 );
 ```
 
-### Starting the Application
-
-- On the command line, open the folder containing 
-
 ## Usage
 
 ### Logging In/Registering
@@ -108,7 +104,7 @@ The first page the user will view is the login page. To login, enter your userna
 
 ![](./images/login.png)
 
-On the registration page, enter your information into the designated fields. All fields in this form are required. Note: This form will only register an employee; managers must be created manually in the database (see the "Creating a Manager" section below).
+On the registration page, enter the user's information into the designated fields. All fields in this form are required. Note: This form will only register an employee; managers must be created manually in the database (see the "Creating a Manager" section).
 
 ![](./images/register.png)
 
@@ -120,7 +116,7 @@ After logging in, the user will be redirected to the homepage.
 
 ### Editing Account Information
 
-To edit the user's account information, click on the orange "Edit" button; the user will be redirected to the Edit Account Information page.
+To edit the user's account information, click on the orange "Edit" button on the homepage. The user will be redirected to the Edit Account Information page.
 
 ![](./images/edit-info.png)
 
@@ -166,7 +162,7 @@ To view all employees, click "View All Employees" on the navigation bar.
 
 ![](./images/view-all-employees.png)
 
-## Logging Out
+### Logging Out
 
 To log out, click on the blue "Logout" button in the navigation bar. You will be redirected to the login page.
 
