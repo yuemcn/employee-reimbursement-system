@@ -180,5 +180,5 @@ insert into users (username, password, first_name, last_name, email, role) value
 
 ## Contributors
 
-- Hailey "Yue" McNelis (yuemcn)
-- Robert Duong (robpduo)
+- Hailey "Yue" McNelis ([yuemcn](https://github.com/yuemcn))
+- Robert Duong ([robpduo](https://github.com/robpduo))
